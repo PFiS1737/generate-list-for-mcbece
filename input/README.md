@@ -1,0 +1,1 @@
+From: [ProjectXero/命令助手ID表生成器](https://gitee.com/projectxero/caidlist)

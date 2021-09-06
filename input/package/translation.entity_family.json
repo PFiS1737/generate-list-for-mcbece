@@ -1,0 +1,122 @@
+{
+    "villager": "ST: villager", // 村民
+    "peasant": "{{farmer}}/{{fisherman}}/{{fletcher}}/{{shepherd}}/{{nitwit}}/{{unskilled}}", // 农民/渔夫/制箭师/牧羊人/傻子村民/失业村民
+    "farmer": "农民",
+    "fisherman": "渔夫",
+    "shepherd": "牧羊人",
+    "fletcher": "制箭师",
+    "librarian": "图书管理员",
+    "cartographer": "制图师",
+    "priest": "神职人员（{{cleric}}）", // 神职人员（牧师）
+    "cleric": "牧师",
+    "blacksmith": "铁匠（{{armorer}}/{{toolsmith}}/{{weaponsmith}}）", // 铁匠（盔甲匠/工具匠/武器匠）
+    "armorer": "盔甲匠",
+    "weaponsmith": "武器匠",
+    "toolsmith": "工具匠",
+    "artisan": "工匠（{{butcher}}/{{leatherworker}}/{{stone_mason}}）", // 工匠（屠夫/皮匠/石匠）
+    "butcher": "屠夫",
+    "leatherworker": "皮匠",
+    "stone_mason": "石匠",
+    "nitwit": "傻子村民",
+    "zombie": "ST: zombie", // 僵尸
+    "undead": "亡灵生物",
+    "monster": "怪物",
+    "unskilled": "失业村民",
+    "zombie_villager": "ST: zombie villager", // 僵尸村民
+    "mason": "石匠（僵尸村民）", // MJSB 旧版笔误
+    "armor_stand": "ST: armor stand", // 盔甲架
+    "inanimate": "非生物",
+    "mob": "生物",
+    "bat": "ST: bat", // 蝙蝠
+    "blaze": "ST: blaze", // 烈焰人
+    "boat": "ST: boat", // 船
+    "cat": "ST: cat", // 猫
+    "cavespider": "ST: cave spider", // 洞穴蜘蛛
+    "arthropod": "节肢生物",
+    "minecart": "ST: minecart", // 矿车
+    "chicken": "ST: chicken", // 鸡
+    "cow": "ST: cow", // 牛
+    "creeper": "ST: creeper", // 苦力怕
+    "dolphin": "ST: dolphin", // 海豚
+    "donkey": "ST: donkey", // 驴
+    "drowned": "ST: drowned", // 溺尸
+    "guardian_elder": "ST: elder guardian", // 远古守卫者
+    "dragon": "ST: ender dragon", // 末影龙
+    "enderman": "ST: enderman", // 末影人
+    "endermite": "ST: endermite", // 末影螨
+    "evocation_illager": "ST: evoker", // 唤魔者
+    "illager": "ST: illager", // 灾厄村民
+    "cod": "ST: cod", // 鳕鱼
+    "fish": "ST: fish", // 鱼
+    "fox": "ST: fox", // 狐狸
+    "ghast": "ST: ghast", // 恶魂
+    "guardian": "ST: guardian", // 守卫者
+    "horse": "ST: horse", // 马
+    "husk": "ST: husk", // 尸壳
+    "irongolem": "ST: iron golem", // 铁傀儡
+    "lightning": "ST: lightning bolt", // 闪电
+    "llama": "ST: llama", // 羊驼
+    "magmacube": "ST: magma cube", // 岩浆怪
+    "mushroomcow": "ST: mooshroom", // 哞菇
+    "mule": "ST: mule", // 骡
+    "npc": "ST: npc", // NPC
+    "ocelot": "ST: ocelot", // 豹猫
+    "panda": "ST: panda", // 熊猫
+    "panda_aggressive": "好斗的{{panda}}", // 好斗的熊猫
+    "parrot": "ST: parrot", // 鹦鹉
+    "parrot_wild": "野生的{{parrot}}", // 野生的鹦鹉
+    "parrot_tame": "驯服的{{parrot}}", // 驯服的鹦鹉
+    "phantom": "ST: phantom", // 幻翼
+    "pig": "ST: pig", // 猪
+    "pillager": "ST: pillager", // 掠夺者
+    "player": "ST: player", // 玩家
+    "polarbear": "ST: polar bear", // 北极熊
+    "pufferfish": "ST: pufferfish", // 河豚
+    "rabbit": "ST: rabbit", // 兔子
+    "ravager": "ST: ravager", // 劫掠兽
+    "salmon": "ST: salmon", // 鲑鱼
+    "sheep": "ST: sheep", // 绵羊
+    "shulker": "ST: shulker", // 潜影贝
+    "silverfish": "ST: silverfish", // 蠹虫
+    "skeleton": "ST: skeleton", // 骷髅
+    "skeletonhorse": "ST: skeleton horse", // 骷髅马
+    "slime": "ST: slime", // 史莱姆
+    "snowgolem": "ST: snow golem", // 雪傀儡
+    "spider": "ST: spider", // 蜘蛛
+    "squid": "ST: squid", // 鱿鱼
+    "stray": "ST: stray", // 流浪者
+    "tnt": "ST: tnt", // TNT
+    "tripodcamera": "ST: camera", // 相机
+    "tropicalfish": "ST: tropical fish", // 热带鱼
+    "turtle": "ST: turtle", // 海龟
+    "baby_turtle": "幼年{{turtle}}", // 幼年海龟
+    "vex": "ST: vex", // 恼鬼
+    "vindicator": "ST: vindicator", // 卫道士
+    "wandering_trader": "ST: wandering trader", // 流浪商人
+    "wandering_trader_despawning": "即将消失的{{wandering_trader}}", // 即将消失的流浪商人
+    "witch": "ST: witch", // 女巫
+    "wither": "ST: wither", // 凋灵
+    "wolf": "ST: wolf", // 狼
+    "zombiehorse": "ST: zombie horse", // 僵尸马
+    "zombie_pigman": "ST: zombie pigman", // 僵尸猪人
+    "bee": "ST: bee", // 蜜蜂
+    "pacified": "失去螫针的{{bee}}", // 失去螫针的蜜蜂
+    "hoglin": "ST: hoglin", // 疣猪兽
+    "hoglin_baby": "幼年{{hoglin}}", // 幼年疣猪兽
+    "hoglin_adult": "成年{{hoglin}}", // 成年疣猪兽
+    "hoglin_huntable": "会被{{piglin}}猎杀的{{hoglin}}", // 会被猪灵猎杀的疣猪兽
+    "piglin": "ST: piglin", // 猪灵
+    "piglin_hunter": "会猎杀{{hoglin}}的{{piglin}}", // 会猎杀疣猪兽的猪灵
+    "adult_piglin": "成年{{piglin}}", // 成年猪灵
+    "piglin_brute": "ST: piglin brute", // 猪灵蛮兵
+    "strider": "ST: strider", // 炽足兽
+    "strider_baby": "幼年{{strider}}", // 幼年炽足兽
+    "strider_adult": "成年{{strider}}", // 成年炽足兽
+    "zoglin": "ST: zoglin", // 僵尸疣猪兽
+    "zoglin_baby": "幼年{{zoglin}}", // 幼年僵尸疣猪兽
+    "zoglin_adult": "成年{{zoglin}}", // 成年僵尸疣猪兽
+    "axolotl": "ST: axolotl", // 美西螈
+    "lightweight": "轻型生物",
+    "goat": "ST: goat", // 山羊
+    "animal": "动物"
+}
