@@ -127,8 +127,10 @@ function generate(name) {
         if (err) {
             return console.error(err)
         }
+        fs.writeFileSync(`output/${name}.json.min.js`, `export let json=${JSON.stringify(output)}`)
         return console.log(`==========\n${name}: "successfully generated"}`)
     })
+    
 }
 
 [
